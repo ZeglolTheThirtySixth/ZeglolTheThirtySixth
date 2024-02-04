@@ -14,7 +14,7 @@ My skills are:
 
 I'm currently working on a bunch of cool things, the most notable being:
 - Dual booting ChromeOS V81 and V103 off the internal storage using the same userdata for both versions
-- A project for reviving a lot of old stuff from ChromeOS and making them actually useful
+- Remote Controller V2, A project for reviving a lot of old stuff from ChromeOS and making them actually useful
 - Sh0vel, an exploit to run code on almost any url in the chrome browser with full API access :trollface:
 
 Not really sure what else to put here
