@@ -5,6 +5,7 @@ such as [Whelement](https://whelement.me) and [FwSmasher](https://github.com/FwS
 
 Some things I'm good at:
 - HTML, CSS, and JavaScript
+- Bash
 - C and C++
 - Chromebook exploit/software development
 
