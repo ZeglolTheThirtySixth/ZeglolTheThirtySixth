@@ -1,24 +1,19 @@
-Hi, I'm ZeglolTheThirySixth (I'm currently working on migrating  my old profile)
-Member of Whelement and FwSmasher :fire:
+Hi! I'm Zeglol1234, though I go more commonly online as Hannah.
 
-My discord is Zeglol1234
-If you wanna message me I don't really mind, I love to chat :D
+I'm an independent ChromiumOS security researcher, though I have worked with other groups
+such as [Whelement](https://whelement.me) and [FwSmasher](https://github.com/FwSmasher) in the past on some projects, so check them out too.
 
-My skills are:
-- Bash
-- JavaScript
-- C
-- C++ (a little bit)
-- Stuff with chromebooks
-- Yapping endlessly about random things
-- Memorizing and reciting every commercial in existence
+Some things I'm good at:
+- HTML, CSS, and JavaScript
+- C and C++
+- Chromebook exploit/software development
 
-I'm currently working on a bunch of cool things, the most notable being:
-- Dual booting ChromeOS V81 and V103 off the internal storage using the same userdata for both versions
-- Remote Controller V2, A project for reviving a lot of old stuff from ChromeOS and making them actually useful
-- Sh0vel, an exploit to run code on almost any url in the chrome browser with full API access :trollface:
-- Some private stuff in Whelement and FwSmasher
+Some projects I made that I'm proud of:
+- [Tr3nch](https://github.com/Whelement/Tr3nch): Open a menu on any chrome url for running various exploits or custom code
+- [JumpStart](https://github.com/Whelement/JumpStart): An advanced RMA shim/Recovery bootloader for ChromeOS and Linux (unfinished)
+- [UnVerifiedBoot](https://github.com/ZeglolTheThirtySixth/UnVerifiedBoot): A ChromeOS firmware modifier to load unverified images without developer mode (unfinished, official ownership given to [kxtz](https://github.com/kxtzownsu))
+- [IceBios](https://github.com/ZeglolTheThirtySixth/IceBios): Custom EFI/Legacy firmware payload for RW_LEGACY in EOL Chromebooks (unfinished)
 
-Not really sure what else to put here
+and some private ones that aren't public yet. I do plan on releasing a lot more!
 
-burger
+My discord is zeglol1234. I'll try to respond to any dms if you have any questions or wanna chat!
