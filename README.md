@@ -8,8 +8,9 @@ Some things I'm good at:
 - Chromebook exploit/software development
 
 Some projects I've worked on:
+- ZegTools: An advanced multi-kernel ChromeOS debugger/bootloader for several purposes
 - [Tr3nch](https://github.com/Whelement/Tr3nch): Open a menu on any chrome url for running various exploits or custom code
 - JumpStart: An advanced RMA Shim/Recovery Image bootloader for ChromeOS and Linux (unfinished)
-(I will add plenty more here soon >:3)
+- (I will add plenty more here soon >:3)
 
 My discord is 'zeglol'. I'll try to respond to any dms if you have any questions or wanna chat!
