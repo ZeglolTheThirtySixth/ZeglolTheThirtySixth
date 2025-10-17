@@ -1,15 +1,20 @@
 Hi! I'm Zeglol1234, though I go more commonly online as Hannah.
 
-I'm a ChromeOS/ChromiumOS security researcher, I specifically enjoy just attempting to push Chromebooks to their absolute limits.
+I'm a Google enthusiast, I specifically enjoy just attempting to push Chromebooks to their absolute limits.
 Some things I'm good at:
 - HTML, CSS, and JavaScript
 - Bash
 - C and C++
-- Chromebook exploit/software development
+- Chromebook development and security research
+- Reverse Engineering
+- Pyschology
 
-Some projects I have worked on/am currently working on:
-- ZegTools: An advanced multi-kernel ChromeOS debugger/bootloader for several purposes (unfinished)
-- [Tr3nch 2.0](https://github.com/ZeglolTheThirtySixth/Tr3nch-2.0): Manifest V2/V3 content script context manipulation and XSS (unfinished)
-- JumpStart: An advanced RMA Shim/Recovery Image bootloader for ChromeOS and Linux and Android-x86 (unfinished)
+Some things I'm not good at, but learning:
+- Rust
+- Python
+
 
 My discord is 'zeglol'. I'll try to respond to any dms if you have any questions or wanna chat!
+I am also of 3 owners of the group [HavenOverflow](https;//github.com/HavenOverflow), you can see a lot of our group's work their!
+
+Do not ask me for hammers! (Thank you!)
