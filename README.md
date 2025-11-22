@@ -5,16 +5,20 @@ Some things I'm good at:
 - HTML, CSS, and JavaScript
 - Bash
 - C and C++
+- Rust
+- Assembly
+- Low level programming
 - Chromebook development and security research
+- Development Organization
 - Reverse Engineering
 - Pyschology
 
-Some things I'm not good at, but learning:
-- Rust
+Some things I'm not good at yet, but learning:
 - Python
+- Community Stability
 
 
 My discord is 'zeglol'. I'll try to respond to any dms if you have any questions or wanna chat!
-I am also of 3 owners of the group [HavenOverflow](https;//github.com/HavenOverflow), you can see a lot of our group's work their!
+I am also one of 3 owners of the group [HavenOverflow](https;//github.com/HavenOverflow), you can see a lot of our group's work their!
 
-Do not ask me for hammers! (Thank you!)
+Do not ask me for hammers! (_Seriously_, Please and Thank you!)
