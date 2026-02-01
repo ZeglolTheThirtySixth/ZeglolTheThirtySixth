@@ -22,4 +22,4 @@ Some things I'm not good at yet, but learning:
 
 My discord is 'zeglol'. I'll try to respond to any dms if you have any questions or wanna chat!
 I am also one of 3 owners of the group [HavenOverflow](https://github.com/HavenOverflow), you can see a lot of our group's work there!
-I'm also a member of Crosbreaker, see their work [here](https://github.com/Crosbreaker) and [join the community](https://discord.crosbreaker.dev), we'd love to have you!
+I'm also a member of Crosbreaker, see their work [here](https://github.com/crosbreaker) and [join the community](https://discord.crosbreaker.dev), we'd love to have you!
